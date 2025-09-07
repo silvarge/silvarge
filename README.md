@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Silvarge's%20Github&reversal=false)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9389D9&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+SANGEUN+%F0%9F%AA%BC;Nice+to+meet+U+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
 
-### 👋 HELLO!
-
-안녕하세요, 제 이름은 **한상은**입니다. 🪼
+안녕하세요, **한상은**이라고 합니다. 🪼
 
 **신뢰하고 의지할 수 있는 동료, 안정적이고 보기 좋은 코드를 작성하는 개발자를 꿈꾸고 있습니다.**
 
@@ -58,3 +56,5 @@
 ### 📊 STATS
 ![Silvarge's GitHub stats](https://github.com/silvarge/github-stats-transparent/blob/output/generated/overview.svg)
 ![Top Langs](https://github.com/silvarge/github-stats-transparent/blob/output/generated/languages.svg)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangeun535)](https://solved.ac/sangeun535)
