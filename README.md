@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Silvarge's%20Github&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Silvarge's%20Github&reversal=false)
 
 ### 👋 HELLO!
 
