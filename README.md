@@ -54,5 +54,3 @@
 ### 📊 STATS
 ![Silvarge's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvarge&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvarge&layout=compact&bg_color=45,ff6e7f,bfe9ff&title_color=ffffff&text_color=ffffff&hide_border=False)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=silvarge&theme=material-palenight)](https://git.io/streak-stats)
