@@ -52,5 +52,5 @@
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 STATS
-![Silvarge's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvarge&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvarge&layout=compact&bg_color=45,ff6e7f,bfe9ff&title_color=ffffff&text_color=ffffff&hide_border=False)
+![Silvarge's GitHub stats](https://github.com/silvarge/github-stats-transparent/blob/output/generated/overview.svg)
+![Top Langs](https://github.com/silvarge/github-stats-transparent/blob/output/generated/languages.svg)
