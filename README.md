@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9389D9&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=Hello%2C+I'm+SANGEUN+%F0%9F%AA%BC;Nice+to+meet+U+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9389D9&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+SANGEUN+%F0%9F%AA%BC;Nice+to+meet+U+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
 
 안녕하세요, **한상은**이라고 합니다. 🪼
 
