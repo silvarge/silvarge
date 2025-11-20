@@ -54,5 +54,3 @@
 ### 📊 STATS
 ![Silvarge's GitHub stats](https://github.com/silvarge/github-stats-transparent/blob/output/generated/overview.svg)
 ![Top Langs](https://github.com/silvarge/github-stats-transparent/blob/output/generated/languages.svg)
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangeun535)](https://solved.ac/sangeun535)
